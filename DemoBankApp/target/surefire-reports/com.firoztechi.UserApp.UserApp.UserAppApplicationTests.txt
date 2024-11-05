@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.firoztechi.UserApp.UserApp.UserAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 31.541 s - in com.firoztechi.UserApp.UserApp.UserAppApplicationTests
